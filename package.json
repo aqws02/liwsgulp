@@ -6,14 +6,15 @@
   "scripts": {
     "test": "liws"
   },
-  "repository": {
-    "type": "git",
-    "url": "liws"
-  },
-  "keywords": [
-    "gulp"
-  ],
-  "author": "liweisong",
+    "repository": {
+        "type": "git",
+	    "url": "git+https://github.com/aqws02/lws-test.git"
+	      },
+	        "author": {
+		    "name": "liweisong",
+		        "email": "aqws02@163.com",
+			    "url": "http://aqws02.com/"
+			      },
   "license": "ISC",
   "dependencies": {
     "gulp": "^3.9.1",
